@@ -1,4 +1,4 @@
-import { FETCH_BITCOIN } from './constants';
+import { FETCH_BITCOIN } from '../constants';
 
 export const fetchBitcoin = () => {
     return dispatch => {

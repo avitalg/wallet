@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import { connect } from 'react-redux';
-import { fetchBitcoin } from '../../actions/bitcoin';
+import { fetchBitcoin } from '../../actions/bitcoin/bitcoin';
 
 export class Loot extends Component {
     componentDidMount() {

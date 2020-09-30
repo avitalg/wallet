@@ -1,4 +1,4 @@
-import * as constants from './constants';
+import * as constants from '../constants';
 import * as actions from './balance';
 
 it('creates an action to set the balance', () => {

@@ -1,4 +1,4 @@
-import { FETCH_BITCOIN} from '../actions/constants';
+import { FETCH_BITCOIN} from '../../actions/constants';
 
 const bitcoin = (state = {}, action) => {
     switch(action.type) {

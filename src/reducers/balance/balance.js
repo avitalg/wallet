@@ -1,4 +1,4 @@
-import * as  constants from '../actions/constants';
+import * as  constants from '../../actions/constants';
 import { read_cookie, bake_cookie } from 'sfcookies';
 
 const BALANCE_COOKIE = 'BALANCE_COOKIE';
